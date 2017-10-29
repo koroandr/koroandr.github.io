@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>andrewshmann.com/posts/hello-world/</loc>
+    <loc>http://andrewshmann.com/posts/hello-world/</loc>
     <lastmod>2017-10-29T19:16:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>andrewshmann.com/categories/</loc>
+    <loc>http://andrewshmann.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>andrewshmann.com/posts/</loc>
+    <loc>http://andrewshmann.com/posts/</loc>
     <lastmod>2017-10-29T19:16:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>andrewshmann.com/tags/</loc>
+    <loc>http://andrewshmann.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>andrewshmann.com/</loc>
+    <loc>http://andrewshmann.com/</loc>
     <lastmod>2017-10-29T19:16:37+02:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Бложик Андрюшмана</title>
-    <link>andrewshmann.com/tags/</link>
+    <link>http://andrewshmann.com/tags/</link>
     <description>Recent content in Tags on Бложик Андрюшмана</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="andrewshmann.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://andrewshmann.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
