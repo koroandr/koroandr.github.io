@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>koroandr&#39;s blog</title>
-    <link>https://koroandr.github.io/</link>
-    <description>Recent content on koroandr&#39;s blog</description>
+    <title>Бложик Андрюшмана</title>
+    <link>andrewshmann.com/</link>
+    <description>Recent content on Бложик Андрюшмана</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Oct 2017 19:16:37 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 29 Oct 2017 19:16:37 +0200</lastBuildDate>
     
-	<atom:link href="https://koroandr.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="andrewshmann.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Первый псто</title>
-      <link>https://koroandr.github.io/posts/my-first-post/</link>
-      <pubDate>Thu, 12 Oct 2017 19:16:37 +0200</pubDate>
+      <title>Hello, world</title>
+      <link>andrewshmann.com/posts/hello-world/</link>
+      <pubDate>Sun, 29 Oct 2017 19:16:37 +0200</pubDate>
       
-      <guid>https://koroandr.github.io/posts/my-first-post/</guid>
-      <description>Неплохо бы еще проверить, как сюда вставляются картинки. Но для начала и просто русского языка достаточно.
-А теперь попробуем показать здесь картинку
-Кажется работает</description>
+      <guid>andrewshmann.com/posts/hello-world/</guid>
+      <description>Привет всем, кто по какой-то необъяснимой случайности (или, что еще более удивительно, намеренно) оказался на этой странице.
+Это первый пост, а значит никакой конкретной темы мы тут обсуждать не будем, я просто немного расскажу о себе и о том что я, собственно, собираюсь здесь писать. Так что давайте знакомиться!
+Итак, здравствуйте, меня зовут Андрей и я алкоголик! Я уже достаточно давно собирался завести себе маленький уютный бложик, и вот наконец-то тяга к творчеству пересилила врожденную лень.</description>
     </item>
     
   </channel>
