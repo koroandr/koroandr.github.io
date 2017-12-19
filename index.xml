@@ -6,10 +6,20 @@
     <description>Recent content on Бложик Андрюшмана</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Oct 2017 19:16:37 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2017 22:36:44 +0100</lastBuildDate>
     
 	<atom:link href="http://andrewshmann.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Собеседования за рубежом</title>
+      <link>http://andrewshmann.com/posts/interview-abroad/</link>
+      <pubDate>Tue, 19 Dec 2017 22:36:44 +0100</pubDate>
+      
+      <guid>http://andrewshmann.com/posts/interview-abroad/</guid>
+      <description>Подозреваю, что идея уехать куда-нибудь, где жизнь лучше, трава зеленее, а пиво вкуснее, приходит время от времени каждому, у кого такая возможность, хотя бы призрачная, имеется. Тут мне, как представителю индустрии высоких технологий (а также высоких зарплат и самомнения) конечно, повезло: нашему брату рады в зарубежье любой степени удаленности.
+Итак, отбросив в стороны сомнения в духе &amp;ldquo;да кому я там нужен&amp;rdquo;, вы твердо устремили свой полный решимости взор на запад.</description>
+    </item>
     
     <item>
       <title>Hello, world</title>
