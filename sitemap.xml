@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://andrewshmann.com/posts/drowning-startups/</loc>
+    <lastmod>2017-12-19T22:43:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://andrewshmann.com/posts/interview-abroad/</loc>
     <lastmod>2017-12-19T22:36:44+01:00</lastmod>
   </url>
@@ -19,7 +24,7 @@
   
   <url>
     <loc>http://andrewshmann.com/posts/</loc>
-    <lastmod>2017-12-19T22:36:44+01:00</lastmod>
+    <lastmod>2017-12-19T22:43:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,7 +35,7 @@
   
   <url>
     <loc>http://andrewshmann.com/</loc>
-    <lastmod>2017-12-19T22:36:44+01:00</lastmod>
+    <lastmod>2017-12-19T22:43:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
