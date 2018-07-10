@@ -1,29 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Бложик Андрюшмана</title>
-    <link>http://andrewshmann.com/</link>
-    <description>Recent content on Бложик Андрюшмана</description>
+    <title>Работа on Бложик Андрюшмана</title>
+    <link>http://andrewshmann.com/tags/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/</link>
+    <description>Recent content in Работа on Бложик Андрюшмана</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 26 Jun 2018 21:05:01 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 May 2018 10:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://andrewshmann.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://andrewshmann.com/tags/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Эмиграция в Амстердам</title>
-      <link>http://andrewshmann.com/posts/move-to-amsterdam/</link>
-      <pubDate>Tue, 26 Jun 2018 21:05:01 +0200</pubDate>
-      
-      <guid>http://andrewshmann.com/posts/move-to-amsterdam/</guid>
-      <description>&lt;img src=&#34;http://andrewshmann.com/img/amsterdam_dawn.jpg&#34; alt=&#34;Эмиграция в Амстердам /img/amsterdam_dawn.jpg&#34; data-action=&#34;zoom&#34;&gt;
-
-
-&lt;p&gt;Наверное, через годик я смогу написать такой же пост про Цюрих, но сейчас хочется рассказать о том, почему Амстердам (и Голландия вообще) - идеальное место для первой эмиграции.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Агилитационная листовка</title>
@@ -41,23 +27,6 @@
 И наоборот, аналитики, архитекторы и даже PMы как-то постепенно уходят в прошлое.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Автомобилизм в Швейцарии</title>
-      <link>http://andrewshmann.com/posts/ch-auto-ownership/</link>
-      <pubDate>Sat, 14 Apr 2018 10:00:00 +0200</pubDate>
-      
-      <guid>http://andrewshmann.com/posts/ch-auto-ownership/</guid>
-      <description>&lt;img src=&#34;http://andrewshmann.com/img/zurich.jpg&#34; alt=&#34;Автомобилизм в Швейцарии /img/zurich.jpg&#34; data-action=&#34;zoom&#34;&gt;
-
-
-&lt;p&gt;Вообще в таком большом (относительно, конечно) городе, как Цюрих, авто - вещь необязательная. Хороший общественный
-транспорт, быстрые поезда дальнего (опять же, по местным меркам) следования, дешёвые авиабилеты, каршеринг, да и
-супермаркетов в черте города хватает - короче, в моей команде кроме меня авто есть только у одного человека, и тоже
-одно на семью.
-⠀
-&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -82,19 +51,6 @@
       <guid>http://andrewshmann.com/posts/interview-abroad/</guid>
       <description>&lt;p&gt;Подозреваю, что идея уехать куда-нибудь, где жизнь лучше, трава зеленее, а пиво вкуснее, приходит время от времени каждому, у кого такая возможность, хотя бы призрачная, имеется.
 Тут мне, как представителю индустрии высоких технологий (а также высоких зарплат и самомнения) конечно, повезло: нашему брату рады в зарубежье любой степени удаленности.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hello, world</title>
-      <link>http://andrewshmann.com/posts/hello-world/</link>
-      <pubDate>Sun, 29 Oct 2017 19:16:37 +0200</pubDate>
-      
-      <guid>http://andrewshmann.com/posts/hello-world/</guid>
-      <description>&lt;p&gt;Привет всем, кто по какой-то необъяснимой случайности (или, что еще более удивительно, намеренно) оказался на этой странице.&lt;/p&gt;
-
-&lt;p&gt;Это первый пост, а значит никакой конкретной темы мы тут обсуждать не будем, я просто немного расскажу о себе и о том что я, собственно, собираюсь здесь писать. Так что давайте знакомиться!&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
